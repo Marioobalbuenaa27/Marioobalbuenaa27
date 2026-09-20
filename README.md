@@ -1,32 +1,64 @@
-# 💫 SOBRE MI:
-Estudiante de Ingeniería en Sistemas de Información, apasionado por el desarrollo de software y la resolución de problemas mediante la tecnología. Me interesa el diseño e implementación de aplicaciones escalables, la gestión de bases de datos, la programación backend y el uso de herramientas modernas de desarrollo. Disfruto aprender nuevas tecnologías, aplicar buenas prácticas de ingeniería de software y participar en proyectos que me permitan seguir creciendo tanto a nivel técnico como profesional. En este perfil comparto proyectos académicos y personales que reflejan mi proceso de aprendizaje, mi compromiso con la mejora continua y mi objetivo de convertirme en un Ingeniero en Sistemas de Información capaz de desarrollar soluciones innovadoras y de calidad.
+<div align="center">
 
+# Hola, soy Mario 👋
+
+**Estudiante de Ingeniería en Sistemas (UTN FRR)**
+Desarrollo Web · Ciberseguridad
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mario-balbuena.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-balbuena-yusva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marioo_balbuena/)
+
+</div>
+
+<br>
+
+### 🚀 Sobre mí
+
+- 🎓 Estudiando Ingeniería en Sistemas en la **UTN FRR** (Resistencia, Chaco)
+- 💻 Enfocado en desarrollo web y ciberseguridad
+- 🌱 Aprendiendo constantemente nuevas herramientas y lenguajes
+- 📫 Contacto: LinkedIn o Instagram (arriba)
+
+<br>
+
+### 🛠️ Tecnologías
 
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Gazer12/count.svg"/>
-  <br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gazer12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazer12&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gazer12&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+
+<br>
+
+### 📊 Estadísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Marioobalbuenaa27&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marioobalbuenaa27&layout=compact&theme=default&hide_border=true" width="35%" />
+
 </div>
 
-## 🌐 REDES:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mario-balbuena-yusva/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariobalbuena233@gmail.com) 
+<br>
 
-# 💻 TECNOLOGIA:
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gazer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gazer12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gazer12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gazer12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Marioobalbuenaa27&theme=default&hide_border=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Gazer12&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<div align="center">
+<sub>Gracias por pasar por mi perfil ⭐</sub>
+</div>
