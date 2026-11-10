@@ -22,7 +22,6 @@ const mario = {
 
   building: [
     "Proyectos propios Full Stack",
-    "Automatizaciones con n8n + Flask",
     "Lexer/parser de lenguajes"
   ],
 
@@ -37,7 +36,7 @@ const mario = {
     languages: ["Python", "JavaScript", "Haskell", "SQL"],
     backend: ["Flask"],
     database: ["MySQL", "PostgreSQL"],
-    tools: ["Git", "n8n"]
+    tools: ["Git"]
   }
 };
 ```
@@ -69,10 +68,10 @@ Estoy en una etapa de aprendizaje activo: probando lenguajes, armando proyectos 
 
 <div align="center">
 
-<a href="https://mario-balbuena.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/mario-balbuena-yusva"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Marioobalbuenaa27"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<!-- Si querés sumar más, copiá una línea y cambiá link y logo (instagram, discord, gmail, etc.) -->
+<!-- Las imágenes btn-*.png tienen que estar en la misma carpeta que este README -->
+<a href="https://mario-balbuena.vercel.app/"><img src="btn-portfolio.png" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/mario-balbuena-yusva"><img src="btn-linkedin.png" alt="LinkedIn"/></a>
+<a href="https://github.com/Marioobalbuenaa27"><img src="btn-github.png" alt="GitHub"/></a>
 
 </div>
 
@@ -81,15 +80,13 @@ Estoy en una etapa de aprendizaje activo: probando lenguajes, armando proyectos 
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Con qué vengo trabajando
 
+<!--
+  La imagen tech-pixel.png tiene que estar en la misma carpeta que este README.
+  Orden: Python, Flask, JavaScript, HTML5, CSS3, Haskell, MySQL, PostgreSQL, Git, GitHub, Jinja
+-->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,js,html,css,haskell,mysql,postgres,git,github,vscode&perline=11" alt="tech icons"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/PYMUPDF-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyMuPDF"/>
-<img src="https://img.shields.io/badge/JINJA-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja"/>
+<img src="tech-pixel.png" width="790" alt="Python, Flask, JavaScript, HTML, CSS, Haskell, MySQL, PostgreSQL, Git, GitHub, Jinja"/>
 
 </div>
 
