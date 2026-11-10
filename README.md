@@ -52,7 +52,7 @@ const mario = {
    1) Subí la imagen a este mismo repo (ej: carpeta /assets) y usá: src="assets/mi-imagen.png"
    2) O usá una URL directa de la imagen (que termine en .png / .jpg / .gif)
 -->
-<img src="https://placehold.co/400x300/0d1117/a371f7?text=TU+IMAGEN+ACA" width="100%" alt="Mi imagen"/>
+<img src="1.jpg" width="100%" alt="Mi imagen"/>
 
 </td>
 </tr>
@@ -95,27 +95,22 @@ Estoy en una etapa de aprendizaje activo: probando lenguajes, armando proyectos 
 
 <br>
 
-<!-- ================= GITHUB ANALYTICS =================
-  Estas imágenes las genera el workflow "Profile Summary Cards"
-  (.github/workflows/profile-cards.yml). Hasta que lo corras una vez
-  no van a aparecer. Si usás otro tema que no sea "dracula",
-  cambiá la palabra "dracula" en las rutas.
--->
+<!-- ================= GITHUB ANALYTICS ================= -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="profile-summary-card-output/dracula/3-stats.svg" width="48%" alt="stats"/>
-<img src="profile-summary-card-output/dracula/2-most-commit-language.svg" width="48%" alt="most commit language"/>
-<img src="profile-summary-card-output/dracula/1-repos-per-language.svg" width="48%" alt="repos per language"/>
-<img src="profile-summary-card-output/dracula/4-productive-time.svg" width="48%" alt="productive time"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Marioobalbuenaa27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub stats"/>
 
-<br><br>
+<br>
 
-<img src="https://streak-stats.demolab.com?user=Marioobalbuenaa27&hide_border=true&background=0d1117&ring=a371f7&fire=58a6ff&currStreakLabel=a371f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=Marioobalbuenaa27&theme=tokyonight&hide_border=false" alt="GitHub streak"/>
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Marioobalbuenaa27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most used languages"/>
 
 </div>
-
 
 <br>
 
